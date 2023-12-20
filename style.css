@@ -139,11 +139,12 @@ nav{
     padding-left: 7%;
 }
 .banner{
-    width: 100%;
+    position: center;
+    width: 70%;
 }
 .banner img{
     width: 100%;
-    border-radius: 8px;
+    border-radius: 25px;
 }
 
 /* ------------list--------- */
